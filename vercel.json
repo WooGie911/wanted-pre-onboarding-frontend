@@ -1,11 +1,11 @@
 {
   "rewrites": [
     {
-      "source": "/auth/signin/:path*",
+      "source": "/auth/signin/path*",
       "destination": "https://pre-onboarding-selection-task.shop/auth/path*"
     },
     {
-      "source": "/auth/signup/:path*",
+      "source": "/auth/signup/path*",
       "destination": "https://pre-onboarding-selection-task.shop/auth/path*"
     },
     {
