@@ -38,3 +38,4 @@
 - node.js 의 버전 상 문제로 digital envelope routines 에러 발생. => node.js 버전 다운그레이드로 해결.
 
 - 파일 구조 설정시에 파일내에서 소문자를 대문자로 바꾼 것이 vercel 배포 과정에서 인식하지 못하여 배포에 문제가 발생. => git config core.ignorecase false 설정을 통해 해결.
+
